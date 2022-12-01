@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
+    <img alt="Happy Dog" src="https://i.stack.imgur.com/rKYq6.jpg?s=256&g=1">
     <pageHeader/>
     <pageBody/>
     <pageFooter/>
@@ -31,5 +31,6 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  background-color: bisque;
 }
 </style>
